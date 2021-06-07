@@ -1,0 +1,20 @@
+题目含义与MySQL代码之间的转换:
+
+not contain duplicates:  DISTINCT
+
+ending with vowels(以元音字母结尾): RIGHT(CITY,1) IN ('A','E','I','O','U')
+IN 前面 加NOT 就是不以元音字母结尾.
+
+start with vowels(以元音字母开头): LEFT(CITY,1) IN ('A','E','I','O','U')
+IN 前面 加NOT 就是不以元音字母开头.
+
+基础练习, 基础扎实的同学可以挑个两题做一下. 由于题目内容有些重复, 全部做完属于浪费时间. 
+
+(推荐基础部分做
+
+Weather Observation Station 12
+
+AND
+
+Employee Salaries
+)
