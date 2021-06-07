@@ -1,2 +1,2 @@
-# SQL-HackerRank-PersonalSolutions
-For recording personal solutions to SQL problems on HR.
+# MySQL-HackerRank-PersonalSolutions
+For recording personal solutions to MySQL challenges on HR.
