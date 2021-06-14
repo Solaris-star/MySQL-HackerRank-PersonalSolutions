@@ -1,0 +1,31 @@
+TIPS:
+开始做题前建议记住以下知识点
+
+关键函数: 
+
+COUNT(X) 返回查询的记录总数，X 参数是一个字段或者 * 号
+
+SUM(X) 返回指定字段的总和
+
+AVG(X) 返回一个表达式的平均值，X 是一个字段
+
+ROUND(X,Y) 保留小数点后 Y 位小数, 最后一位四舍五入. 如果y没有值则默认0 -> ROUND (X) 返回距离X最近的整数
+
+TRUNCATE(X,,Y) 	返回数值 X 保留到小数点后 Y 位的值（与 ROUND 最大的区别是不会进行四舍五入）
+
+MAX(X) / MIN(X) 返回字段 X 中的 最大 / 最小 值
+
+REPLACE(X,X1,X2) 将字符串 X2 替代字符串 X 中的字符串 X1
+
+CEIL(x)	返回大于或等于 x 的最小整数　
+
+POWER(X,Y) 	返回 x 的 y 次方
+
+关键语句:
+
+Group by 用于结合聚合函数，根据一个或多个列对结果集进行分组.
+语法: 
+SELECT column_name, aggregate_function(column_name)
+FROM table_name
+WHERE column_name operator value
+GROUP BY column_name;
