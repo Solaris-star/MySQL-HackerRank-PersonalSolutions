@@ -28,7 +28,7 @@ For recording personal solutions to MySQL challenges on Hack Rank.
 | 20| [Employee Salaries](https://github.com/Solaris-star/MySQL-HackerRank-PersonalSolutions/blob/main/Basic-Selects-Challenges/Employee%20Salaries.SQL)
 
 ### Aggregation Challenges
-| Number | Challenges | 
+| Number | Challenges&Solutions | 
 |:------:|------------|
 | 1 | [Revising Aggregations - The Count Function](https://github.com/Solaris-star/MySQL-HackerRank-PersonalSolutions/blob/main/Aggregations%20Challenges/Revising%20Aggregations%20-%20The%20Count%20Function.SQL) | 
 | 2 | [Revising Aggregations - The Sum Function](https://github.com/Solaris-star/MySQL-HackerRank-PersonalSolutions/blob/main/Aggregations%20Challenges/Revising%20Aggregations%20-%20The%20Sum%20Function.SQL)|
@@ -50,7 +50,7 @@ For recording personal solutions to MySQL challenges on Hack Rank.
 
 ### Advanced Select Challenges
 
-| Number | Challenges |
+| Number | Challenges&Solutions |
 |:------:|------------|
 | 1 |[Occupations](https://github.com/Solaris-star/MySQL-HackerRank-PersonalSolutions/blob/main/Advanced%20Select/Occupations.SQL) 
 
