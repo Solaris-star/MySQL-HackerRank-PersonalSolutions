@@ -55,7 +55,7 @@ For recording personal solutions to MySQL challenges on Hack Rank.
 | 1 |[Occupations](https://github.com/Solaris-star/MySQL-HackerRank-PersonalSolutions/blob/main/Advanced%20Select/Occupations.SQL) 
 
 
-### Basic Join
+### [MySQL-HackerRank-PersonalSolutions-ideas(心得)](https://github.com/Solaris-star/MySQL-HackerRank-PersonalSolutions/tree/main/MySQL-HackerRank-PersonalSolutions-ideas(%E5%BF%83%E5%BE%97))
 
 
 
